@@ -20,3 +20,9 @@ This project analyzes customer and purchase data using RFM analysis and machine 
 3. Run `python/rfm_analysis.py` for segmentation
 4. Open `dashboard.pbix` in Power BI
 5. Read final report for recommendations
+
+
+   <img width="2400" height="1600" alt="chart" src="https://github.com/user-attachments/assets/e0bd0c2c-018a-4f34-86b3-eb90d91d9fdb" />
+   <img width="2400" height="1600" alt="chart (1)" src="https://github.com/user-attachments/assets/1e0f0208-81a1-41ee-b024-a303d620b7c4" />
+
+
